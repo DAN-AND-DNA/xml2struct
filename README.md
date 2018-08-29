@@ -8,4 +8,4 @@ build:
   1. cd build;cmake ..;make
   2. ./test_pug
   3. you will get a "LuckyDrawMeta.hpp"
-  4. you can use "LuckyDrawMeta.hpp" and its xml in your app
+  4. you can use "LuckyDrawMeta.hpp" and its xml(LuckyDraw.xm) in your app
