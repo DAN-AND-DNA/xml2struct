@@ -2,7 +2,7 @@
 
 
 deps:
-  1. none  (pugixml already exists)
+  1. none  (pugixml is here)
 
 build:
   1. cd build;cmake ..;make
